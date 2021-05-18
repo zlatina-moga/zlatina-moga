@@ -8,7 +8,7 @@
 
 ---
 
-## &#1f4c8; My GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlatina-moga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Zlatina's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlatina-moga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlatina-moga&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Zlatina's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlatina-moga&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
