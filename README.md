@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am Zlatina!
 ---
 
-🎓 Soon to be a Software University graduate as a JS Web Developer.
+🎓 Software University JS Web Developer graduate.
 
 💪 Hardworking and with constant desire to learn new things and self-improve.
 
