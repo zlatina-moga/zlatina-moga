@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am Zlatina!
 ---
 
-🎓 Software University Web Developer graduate.
+🎓 Software University Web Developer.
 
 💪 Hardworking and with constant desire to learn new things and self-improve.
 
